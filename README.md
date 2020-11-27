@@ -48,3 +48,12 @@ Windows:
 - It can happen that the system asks for a reboot. Do that & execute the command again in Powershell
 - Now we can establish the connection with the usb server by executing the following command: ./usbip.exe attach_ude -r your-ip-here -b usb-bus-id-here
 - usbip: error: walker_devpath....... is normal and does not matter. The Powershell window has to remain open & your usb device should be reachable now.
+
+
+Rollout plan:
+- Windows PC/Server
+- Subsystem Linux on Windows PC/Server (For mail & attachment collection)
+- Papercut NG (or Mobility Print if that turns out to be sufficient)
+- 
+
+
