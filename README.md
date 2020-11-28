@@ -14,7 +14,7 @@ Idea structure:
 Get ARM device (Raspberry Pi Zero W or Zeropi) connected to the network at the client.
 Set up the following:
 - Zerotier (connecting to private network)
-- usbip from Linux. This is finnicky but should work.
+- usbip from Linux.
 - Because the printer is connected to the Pi with usb we can forward it through our private local network (Zerotier)
 - Use a Windows computer to automatically print the attachments from these clients.
 
