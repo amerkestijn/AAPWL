@@ -62,5 +62,5 @@ Rolled out.
 - Subsystem Linux on Windows PC/Server (For mail & attachment collection & processing)
 - Disabled Windows update with script made in Autohotkey (see file: scripta1.ahk)
 - No papercut NG. Does not provide any benefit.
-- VirtualHere (instead of USBIP). Free version as the paid version is not needed for basic functionality.
+- Used VirtualHere (instead of USBIP) because USBIP was not capable of connecting more than 2 hosts on 1 client, which could be a device specific problem (Zebra labelprinters). Free version as the paid version is not needed for basic functionality.
 
