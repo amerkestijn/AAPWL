@@ -54,6 +54,13 @@ Rollout plan:
 - Windows PC/Server
 - Subsystem Linux on Windows PC/Server (For mail & attachment collection)
 - Papercut NG (or Mobility Print if that turns out to be sufficient)
-- 
 
+UPDATE 09-12-2020
+
+Rolled out.
+- Windows PC/Server
+- Subsystem Linux on Windows PC/Server (For mail & attachment collection & processing)
+- Disabled Windows update with script made in Autohotkey (see file: scripta1.ahk)
+- No papercut NG. Does not provide any benefit.
+- VirtualHere (instead of USBIP). Free version as the paid version is not needed for basic functionality.
 
