@@ -68,4 +68,5 @@ Rolled out.
 
 
 UPDATE 27-01-2020
+
 The need for printing over the local network is now needed. My idea is to use Zerotier as a simple forwarder. Testing is in progress.
