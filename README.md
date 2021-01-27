@@ -64,3 +64,8 @@ Rolled out.
 - No papercut NG. Does not provide any benefit.
 - Used VirtualHere (instead of USBIP) because USBIP was not capable of connecting more than 2 hosts on 1 client, which could be a device specific problem (Zebra labelprinters). Free version as the paid version is not needed for basic functionality.
 
+
+
+
+UPDATE 27-01-2020
+The need for printing over the local network is now needed. My idea is to use Zerotier as a simple forwarder. Testing is in progress.
